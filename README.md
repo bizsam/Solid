@@ -13,7 +13,7 @@
 > - Visual part of website is ready
 >  ## Screenshots
 >   
-https://imgur.com/a/NwpOyLt
+[Here you can see the screenshots](https://imgur.com/a/NwpOyLt)
 
  <!-- If you have screenshots you'd like to share, include them here. --> 
 ## Setup 
@@ -29,8 +29,6 @@ To do:
 ## Acknowledgements 
 - This project was made only for education goals 
 ## Contact 
-Created by [dominikdeptula](
+Created by [Dominik Deptuła](https://github.com/dominikdeptula)
 
-https://github.com/dominikdeptula
-
-) - feel free to contact me! <!-- Optional --> <!-- ## License --> <!-- This project is open source and available under the [... License](). --> <!-- You don't have to include all sections - just the one's relevant to your project -->
+- feel free to contact me! <!-- Optional --> <!-- ## License --> <!-- This project is open source and available under the [... License](). --> <!-- You don't have to include all sections - just the one's relevant to your project -->
