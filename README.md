@@ -1,18 +1,18 @@
 # Solid 
 > Solid is a one-page landing page template designed for online tools, SaaS products, and digital services. It's built with HTML5, and it comes with a modern and trendy dark look, a bright complementary palette, 3D icons/illustrations, and it’s wisely coded and documented, so you don’t have to worry about customising the template for your specific needs and purposes.
-> ## General Information 
-> - Landing page created by me only for the education goals 
-> - It helped me understand how JavaScript, HTML and CSS works 
-> - This platforms should help users to manage their contents and blogs 
-> ## Technologies Used 
-> - HTML 
-> - CSS 
-> - JavaScript 
-> ## Features 
-> List the ready features here: 
-> - Visual part of website is ready
->  ## Screenshots
->   
+ ## General Information 
+ - Landing page created by me only for the education goals 
+ - It helped me understand how JavaScript, HTML and CSS works 
+ - This platforms should help users to manage their contents and blogs 
+ ## Technologies Used 
+ - HTML 
+ - CSS 
+ - JavaScript 
+ ## Features 
+ List the ready features here: 
+ - Visual part of website is ready
+  ## Screenshots
+   
 [Here you can see the screenshots](https://imgur.com/a/NwpOyLt)
 
  <!-- If you have screenshots you'd like to share, include them here. --> 
