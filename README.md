@@ -1,12 +1,36 @@
-# Solid
+# Solid 
+> Solid is a one-page landing page template designed for online tools, SaaS products, and digital services. It's built with HTML5, and it comes with a modern and trendy dark look, a bright complementary palette, 3D icons/illustrations, and it’s wisely coded and documented, so you don’t have to worry about customising the template for your specific needs and purposes.
+> ## General Information 
+> - Landing page created by me only for the education goals 
+> - It helped me understand how JavaScript, HTML and CSS works 
+> - This platforms should help users to manage their contents and blogs 
+> ## Technologies Used 
+> - HTML 
+> - CSS 
+> - JavaScript 
+> ## Features 
+> List the ready features here: 
+> - Visual part of website is ready
+>  ## Screenshots
+>   
+https://imgur.com/a/NwpOyLt
 
-A landing page template.
+ <!-- If you have screenshots you'd like to share, include them here. --> 
+## Setup 
+Clone this repository and just open index.html file, located in root folder 
+## Project Status 
+Project is: _in progress_. 
+## Room for Improvement 
+I'm currently working to make this landing page more responsive and dynamic 
+To do: 
+- Fill in all the 'lorem ipsum' parts
+- Product/Company/Connect sections 
+- Provide more detailed information about this platform 
+## Acknowledgements 
+- This project was made only for education goals 
+## Contact 
+Created by [dominikdeptula](
 
-* [Getting started](#getting-started)
+https://github.com/dominikdeptula
 
-## Getting started
-* First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
-* Next, use your command line to enter your project directory.
-* This template comes with a ready-to-use package file called `package-sample.json`. You just need to rename it to `package.json`, then run `npm install` to install all of the dependencies into your project.
-
-You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
+) - feel free to contact me! <!-- Optional --> <!-- ## License --> <!-- This project is open source and available under the [... License](). --> <!-- You don't have to include all sections - just the one's relevant to your project -->
